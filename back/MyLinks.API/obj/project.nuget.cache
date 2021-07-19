@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "WvKlcNwKkkbLWawmK81qnT3JXh5+W/Z81OII/PleD7ret+KPTglNRZHzd2sXCRO6BZNG6ZEqapDlKn7BrmEWxg==",
+  "success": true,
+  "projectFilePath": "/Users/nathanaeldelfino/dev/CloudApps/codefc-my-links/back/MyLinks.API/MyLinks.API.csproj",
+  "expectedPackageFiles": [
+    "/Users/nathanaeldelfino/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/nathanaeldelfino/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/nathanaeldelfino/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/Users/nathanaeldelfino/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/Users/nathanaeldelfino/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/Users/nathanaeldelfino/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
