@@ -1,0 +1,12 @@
+/Users/nathanaeldelfino/dev/CloudApps/codefc-my-links/back/MyLinks.Repository/bin/Debug/net5.0/MyLinks.Repository.deps.json
+/Users/nathanaeldelfino/dev/CloudApps/codefc-my-links/back/MyLinks.Repository/bin/Debug/net5.0/MyLinks.Repository.dll
+/Users/nathanaeldelfino/dev/CloudApps/codefc-my-links/back/MyLinks.Repository/bin/Debug/net5.0/ref/MyLinks.Repository.dll
+/Users/nathanaeldelfino/dev/CloudApps/codefc-my-links/back/MyLinks.Repository/bin/Debug/net5.0/MyLinks.Repository.pdb
+/Users/nathanaeldelfino/dev/CloudApps/codefc-my-links/back/MyLinks.Repository/obj/Debug/net5.0/MyLinks.Repository.csproj.AssemblyReference.cache
+/Users/nathanaeldelfino/dev/CloudApps/codefc-my-links/back/MyLinks.Repository/obj/Debug/net5.0/MyLinks.Repository.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nathanaeldelfino/dev/CloudApps/codefc-my-links/back/MyLinks.Repository/obj/Debug/net5.0/MyLinks.Repository.AssemblyInfoInputs.cache
+/Users/nathanaeldelfino/dev/CloudApps/codefc-my-links/back/MyLinks.Repository/obj/Debug/net5.0/MyLinks.Repository.AssemblyInfo.cs
+/Users/nathanaeldelfino/dev/CloudApps/codefc-my-links/back/MyLinks.Repository/obj/Debug/net5.0/MyLinks.Repository.csproj.CoreCompileInputs.cache
+/Users/nathanaeldelfino/dev/CloudApps/codefc-my-links/back/MyLinks.Repository/obj/Debug/net5.0/MyLinks.Repository.dll
+/Users/nathanaeldelfino/dev/CloudApps/codefc-my-links/back/MyLinks.Repository/obj/Debug/net5.0/ref/MyLinks.Repository.dll
+/Users/nathanaeldelfino/dev/CloudApps/codefc-my-links/back/MyLinks.Repository/obj/Debug/net5.0/MyLinks.Repository.pdb

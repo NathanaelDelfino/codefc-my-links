@@ -1,0 +1,12 @@
+/Users/nathanaeldelfino/dev/CloudApps/codefc-my-links/back/MyLinks.Domain/bin/Debug/net5.0/MyLinks.Domain.deps.json
+/Users/nathanaeldelfino/dev/CloudApps/codefc-my-links/back/MyLinks.Domain/bin/Debug/net5.0/MyLinks.Domain.dll
+/Users/nathanaeldelfino/dev/CloudApps/codefc-my-links/back/MyLinks.Domain/bin/Debug/net5.0/ref/MyLinks.Domain.dll
+/Users/nathanaeldelfino/dev/CloudApps/codefc-my-links/back/MyLinks.Domain/bin/Debug/net5.0/MyLinks.Domain.pdb
+/Users/nathanaeldelfino/dev/CloudApps/codefc-my-links/back/MyLinks.Domain/obj/Debug/net5.0/MyLinks.Domain.csproj.AssemblyReference.cache
+/Users/nathanaeldelfino/dev/CloudApps/codefc-my-links/back/MyLinks.Domain/obj/Debug/net5.0/MyLinks.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nathanaeldelfino/dev/CloudApps/codefc-my-links/back/MyLinks.Domain/obj/Debug/net5.0/MyLinks.Domain.AssemblyInfoInputs.cache
+/Users/nathanaeldelfino/dev/CloudApps/codefc-my-links/back/MyLinks.Domain/obj/Debug/net5.0/MyLinks.Domain.AssemblyInfo.cs
+/Users/nathanaeldelfino/dev/CloudApps/codefc-my-links/back/MyLinks.Domain/obj/Debug/net5.0/MyLinks.Domain.csproj.CoreCompileInputs.cache
+/Users/nathanaeldelfino/dev/CloudApps/codefc-my-links/back/MyLinks.Domain/obj/Debug/net5.0/MyLinks.Domain.dll
+/Users/nathanaeldelfino/dev/CloudApps/codefc-my-links/back/MyLinks.Domain/obj/Debug/net5.0/ref/MyLinks.Domain.dll
+/Users/nathanaeldelfino/dev/CloudApps/codefc-my-links/back/MyLinks.Domain/obj/Debug/net5.0/MyLinks.Domain.pdb
