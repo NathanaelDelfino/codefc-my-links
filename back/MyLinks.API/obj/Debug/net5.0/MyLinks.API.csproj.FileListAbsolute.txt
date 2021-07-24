@@ -28,3 +28,5 @@
 /Users/nathanaeldelfino/dev/CloudApps/codefc-my-links/back/MyLinks.API/obj/Debug/net5.0/ref/MyLinks.API.dll
 /Users/nathanaeldelfino/dev/CloudApps/codefc-my-links/back/MyLinks.API/obj/Debug/net5.0/MyLinks.API.pdb
 /Users/nathanaeldelfino/dev/CloudApps/codefc-my-links/back/MyLinks.API/obj/Debug/net5.0/MyLinks.API.genruntimeconfig.cache
+/Users/nathanaeldelfino/dev/CloudApps/codefc-my-links/back/MyLinks.API/bin/Debug/net5.0/MyLinks.Repository.dll
+/Users/nathanaeldelfino/dev/CloudApps/codefc-my-links/back/MyLinks.API/bin/Debug/net5.0/MyLinks.Repository.pdb

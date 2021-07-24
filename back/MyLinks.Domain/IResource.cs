@@ -4,7 +4,7 @@ namespace mylinks.domain
 {
     public interface IResource
     {
-        Guid id { get; set; } 
+        Guid Id { get; set; } 
         public string Title { get; set; }
     }
 }

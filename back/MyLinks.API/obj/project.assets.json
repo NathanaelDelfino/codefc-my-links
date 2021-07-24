@@ -85,6 +85,16 @@
         "runtime": {
           "bin/placeholder/MyLinks.Domain.dll": {}
         }
+      },
+      "MyLinks.Repository/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/MyLinks.Repository.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MyLinks.Repository.dll": {}
+        }
       }
     }
   },
@@ -200,11 +210,17 @@
       "type": "project",
       "path": "../MyLinks.Domain/MyLinks.Domain.csproj",
       "msbuildProject": "../MyLinks.Domain/MyLinks.Domain.csproj"
+    },
+    "MyLinks.Repository/1.0.0": {
+      "type": "project",
+      "path": "../MyLinks.Repository/MyLinks.Repository.csproj",
+      "msbuildProject": "../MyLinks.Repository/MyLinks.Repository.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
       "MyLinks.Domain >= 1.0.0",
+      "MyLinks.Repository >= 1.0.0",
       "Swashbuckle.AspNetCore >= 5.6.3"
     ]
   },
@@ -235,6 +251,9 @@
           "projectReferences": {
             "/Users/nathanaeldelfino/dev/CloudApps/codefc-my-links/back/MyLinks.Domain/MyLinks.Domain.csproj": {
               "projectPath": "/Users/nathanaeldelfino/dev/CloudApps/codefc-my-links/back/MyLinks.Domain/MyLinks.Domain.csproj"
+            },
+            "/Users/nathanaeldelfino/dev/CloudApps/codefc-my-links/back/MyLinks.Repository/MyLinks.Repository.csproj": {
+              "projectPath": "/Users/nathanaeldelfino/dev/CloudApps/codefc-my-links/back/MyLinks.Repository/MyLinks.Repository.csproj"
             }
           }
         }

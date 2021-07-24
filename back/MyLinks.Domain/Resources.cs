@@ -5,7 +5,7 @@ namespace MyLinks.Domain
 {
     public abstract class Resources : IResource
     {
-        public Guid id { get ; set; }
+        public Guid Id { get ; set; }
         public string Title { get ; set ; }
     }
 }
