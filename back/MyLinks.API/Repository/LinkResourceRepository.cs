@@ -5,8 +5,21 @@ using MyLinks.Domain.Repository;
 
 namespace MyLinks.API
 {
-    public class LinkResourceRepository : ILinkResourcesRepository
+    public class LinkResourceRepository : ILinkResourceRepository
     {
+        public void Save(LinkResource domain)
+        {
+            throw new NotImplementedException();
+        }
+
+        public LinkResource GetById(Guid id)
+        {
+          return new LinkResource{
+              Id = Guid.NewGuid(),
+              Title = "Site",
+              URL = "http://www.codefc.com.br"
+          };
+        }
         public void DeleteById(Guid id)
         {
             throw new NotImplementedException();
@@ -28,20 +41,6 @@ namespace MyLinks.API
                 URL = "http://youtube.com"
             });
             return linkResources;
-        }
-
-        public LinkResource GetById(Guid id)
-        {
-          return new LinkResource{
-              Id = Guid.NewGuid(),
-              Title = "Site",
-              URL = "http://www.codefc.com.br"
-          };
-        }
-
-        public void Save(LinkResource domain)
-        {
-            throw new NotImplementedException();
         }
     }
 }

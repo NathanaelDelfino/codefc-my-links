@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace MyLinks.Domain.Repository
 {
-    public interface ILinkResourcesRepository
+    public interface ILinkResourceRepository
     {
         void Save(LinkResource domain);
         LinkResource GetById(Guid id);

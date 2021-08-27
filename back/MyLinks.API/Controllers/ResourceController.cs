@@ -8,8 +8,8 @@ namespace MyLinks.API.Controllers
     [Route("controller")]
     public class ResourceController : ControllerBase
     {
-        private ILinkResourcesRepository _repository;
-        public ResourceController(ILinkResourcesRepository repository)
+        private ILinkResourceRepository _repository;
+        public ResourceController(ILinkResourceRepository repository)
         {
             _repository = repository;   
         }
