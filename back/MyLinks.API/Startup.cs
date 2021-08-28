@@ -31,7 +31,7 @@ namespace MyLinks.API
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc( "v1", new OpenApiInfo { Title = "MyLinks.API", Version = "v1" });
-            });
+           });
 
         }
 
