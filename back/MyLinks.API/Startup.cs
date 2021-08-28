@@ -30,8 +30,8 @@ namespace MyLinks.API
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {
-                c.SwaggerDoc( "v1", new OpenApiInfo { Title = "MyLinks.API", Version = "v1" });
-           });
+                c.SwaggerDoc("v1", new OpenApiInfo { Title = "Delfino- MyLinks.API", Version = "v2" });
+            });
 
         }
 
@@ -41,13 +41,13 @@ namespace MyLinks.API
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
-                app.UseSwagger();
-                app.UseSwaggerUI(c => {
-                  c.SwaggerEndpoint("/swagger/v1/swagger.json", "MyLinks.API v1");  
-                  c.RoutePrefix = string.Empty;
-                });
             }
-
+            app.UseSwagger();
+            app.UseSwaggerUI(c =>
+            {
+                c.SwaggerEndpoint("/swagger/v1/swagger.json", "Delfino - MyLinks.API v2");
+                c.RoutePrefix = string.Empty;
+            });
             app.UseHttpsRedirection();
             app.UseRouting();
             app.UseAuthorization();

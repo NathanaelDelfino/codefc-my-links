@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/ab770881-4e70-45d8-9924-8fc36c06b96b/resourceGroups/rg-mylinks/providers/Microsoft.Web/sites/delfinomylinks",
+    "appService.deploySubpath": "back/MyLinks.API/Output"
+}
